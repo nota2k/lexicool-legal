@@ -13,7 +13,6 @@ Le principe qui la résume : **Lexicool ne collecte que votre adresse email et l
 ## Responsable de traitement
 
 Nelly Babillon
-12 rue des Lilas, 75011 Paris
 Contact : contact@lexicool.fr
 
 Pour toute question relative à vos données, ou pour exercer vos droits, écrivez à cette adresse.
