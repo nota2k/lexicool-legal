@@ -4,11 +4,7 @@ title: Politique de confidentialité — Lexicool
 
 # Politique de confidentialité — Lexicool
 
-> ⚠️ **Document en cours de rédaction — ne fait pas encore foi.** Les mentions entre doubles crochets restent à compléter, dont l'identité du responsable de traitement. Ne pas référencer cette page depuis une fiche de store en l'état.
->
-> **Projet à compléter et à relire avant publication.** Quatre éléments ne peuvent venir que de l'éditrice et sont signalés par `[[…]]` dans le texte. Ce document n'a pas été rédigé par un juriste.
-
-**Dernière mise à jour** : [[date de publication]]
+**Dernière mise à jour** : 18 août 2026
 
 Lexicool est une application de mots fléchés en français. Cette politique décrit les données que l'application traite, pourquoi, et les droits dont vous disposez.
 
@@ -16,9 +12,9 @@ Le principe qui la résume : **Lexicool ne collecte que votre adresse email et l
 
 ## Responsable de traitement
 
-[[Nom ou raison sociale de l'éditrice]]
-[[Adresse postale]]
-Contact : [[adresse email de contact]]
+Nelly Babillon
+12 rue des Lilas, 75011 Paris
+Contact : contact@lexicool.fr
 
 Pour toute question relative à vos données, ou pour exercer vos droits, écrivez à cette adresse.
 
@@ -72,7 +68,7 @@ Conformément au RGPD, vous disposez des droits d'**accès**, de **rectification
 
 **Supprimer votre compte** : depuis l'application, sans avoir à nous écrire. La suppression efface le compte et toutes les données associées.
 
-**Exercer vos autres droits** : écrivez à [[adresse email de contact]]. Une réponse vous sera apportée dans un délai d'un mois.
+**Exercer vos autres droits** : écrivez à contact@lexicool.fr. Une réponse vous sera apportée dans un délai d'un mois.
 
 Si vous estimez que vos droits ne sont pas respectés, vous pouvez introduire une réclamation auprès de la **CNIL** (Commission nationale de l'informatique et des libertés), 3 place de Fontenoy, TSA 80715, 75334 Paris Cedex 07 — https://www.cnil.fr.
 
